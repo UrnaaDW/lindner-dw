@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-8">
           <div className="flex items-center gap-3">
             <div className="w-8 h-8 rounded bg-brand-red" />
-            <span className="text-lg font-bold tracking-wide">ДОЕЧЕВЭЛЛЭ</span>
+            <span className="text-lg font-bold tracking-wide">ДОЕЧЕВЭЛЛЭ ХХК</span>
           </div>
 
           <nav className="flex flex-wrap gap-6">

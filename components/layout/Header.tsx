@@ -22,7 +22,7 @@ export default function Header() {
           <a href="/" className="flex items-center gap-3.5">
             <div className="w-10 h-10 rounded-md bg-brand-red" />
             <span className="text-[22px] font-bold text-brand-black font-display tracking-wide">
-              ДОЕЧЕВЭЛЛЭ
+              ДОЕЧЕВЭЛЛЭ ХХК
             </span>
           </a>
 
